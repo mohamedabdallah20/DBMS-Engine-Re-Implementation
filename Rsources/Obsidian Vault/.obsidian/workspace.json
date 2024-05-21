@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b8ee1e3ad7919ab",
+        "id": "328a0b8f28e94c1f",
         "type": "tabs",
         "children": [
           {
-            "id": "6b2aa6b99266d63a",
+            "id": "c643afe66240faba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS Engine re-implementation/Resources/Week 1 - 2024-05-17.md",
+                "file": "Gained Concepts/Gained Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS Engine re-implementation/Resources/Week 1 - 2024-05-17.md",
+                "file": "Gained Concepts/Gained Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS Engine re-implementation/Resources/Week 1 - 2024-05-17.md",
+                "file": "Gained Concepts/Gained Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS Engine re-implementation/Resources/Week 1 - 2024-05-17.md"
+                "file": "Gained Concepts/Gained Concepts.md"
               }
             }
           }
@@ -147,13 +147,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b2aa6b99266d63a",
+  "active": "c643afe66240faba",
   "lastOpenFiles": [
-    "Excalidraw/DBMS Arch. 2024-05-19 14.36.10.excalidraw.md",
+    "DBMS Engine re-implementation/Notes Hammo/2024-05-21.md",
+    "DBMS Engine re-implementation/Notes/Untitled.md",
+    "Untitled.md",
+    "DBMS Engine re-implementation/Untitled.md",
+    "DBMS Engine re-implementation/Notes Hammo",
+    "Gained Concepts/Gained Concepts.md",
     "DBMS Engine re-implementation/Resources/Week 1 - 2024-05-17.md",
+    "Excalidraw/DBMS Arch. 2024-05-19 14.36.10.excalidraw.md",
     "DBMS Arch..png",
     "DBMS Arch..webp",
-    "Gained Concepts/Gained Concepts.md",
     "Excalidraw",
     "Untitled.canvas",
     "Gained Concepts",
